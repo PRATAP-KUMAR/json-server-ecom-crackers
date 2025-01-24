@@ -1,60 +1,13 @@
 {
-    "dealers": [
-        {
-            "userId": "1",
-            "firstName": "foo",
-            "lastName": "bar",
-            "phone": "9885501919",
-            "email": "some@email.com",
-            "password": "somepw",
-            "role": "dealer"
-        },
-        {
-            "userId": "2",
-            "firstName": "foo",
-            "lastName": "bar",
-            "phone": "9885501919",
-            "email": "some@email.com",
-            "password": "somepw",
-            "role": "dealer"
-        },
-        {
-            "userId": "3",
-            "firstName": "foo",
-            "lastName": "bar",
-            "phone": "9885501919",
-            "email": "some@email.com",
-            "password": "somepw",
-            "role": "dealer"
-        }
-    ],
-    "operators": [
-        {
-            "userId": "4",
-            "firstName": "foo",
-            "lastName": "bar",
-            "phone": "9885501919",
-            "email": "some@email.com",
-            "password": "somepw",
-            "role": "dealer"
-        },
-        {
-            "userId": "5",
-            "firstName": "foo",
-            "lastName": "bar",
-            "phone": "9885501919",
-            "email": "some@email.com",
-            "password": "somepw",
-            "role": "dealer"
-        },
-        {
-            "userId": "6",
-            "firstName": "foo",
-            "lastName": "bar",
-            "phone": "9885501919",
-            "email": "some@email.com",
-            "password": "somepw",
-            "role": "dealer"
-        }
-    ]
+  "dealers": [
+    {
+      "firstName": "dealer",
+      "lastName": "dealer",
+      "phone": "9",
+      "email": "name@email.com",
+      "id": 1
+    }
+  ],
+  "operators": [
+  ]
 }
